@@ -1,0 +1,66 @@
+{
+    "mcs-branch": [
+        {
+            "subjects": [
+                {"title": "Paradigm Programming Language","subjectCode":"CSUT111"},
+                {"title": "Design And Analysis Of Algorithm","subjectCode":"CSUT112"},
+                {"title": "Database Technologies","subjectCode":"CSUT113"},
+                {"title": "Cloud Computing","subjectCode":"CSDT114A"},
+                {"title": "Artificial Intelligence","subjectCode":"CSDT114B"},
+                {"title": "Web Services","subjectCode":"CSDT114C"}
+            ]
+        },
+        {
+            "subjects": [
+                {"title": "Advance Operating System","subjectCode":"CSUT121"},
+                {"title": "Mobile Techonologies","subjectCode":"CSUT122"},
+                {"title": "Software Project Management","subjectCode":"CSUT123"},
+                {"title":  "Human Computer Intraction","subjectCode":"CSDT124B"},
+                {"title":  "Web Services","subjectCode":"CSDT124c"}
+            ]
+        },
+        {
+            "subjects": [
+                {"title":  "Software Architecture & design Patterns","subjectCode":"CSUT231"},
+                {"title":  "Machine Learning","subjectCode":"CSUT232"},
+                {"title":  "Web Frameworks","subjectCode":"CSUT233"},
+                {"title":   "Big Data Analytics","subjectCode":"CSDT234A"},
+                {"title":  "web Analytics","subjectCode":"CSDT234B"}    
+            ]
+        }
+    ],
+
+    "bcs-branch": [
+        {
+            "subjects": [
+                {"title": "Paradigm Programming Language","subjectCode":"CSUT111"},
+                {"title": "Design And Analysis Of Algorithm","subjectCode":"CSUT112"},
+                {"title": "Database Technologies","subjectCode":"CSUT113"},
+                {"title": "Cloud Computing","subjectCode":"CSDT114A"},
+                {"title": "Artificial Intelligence","subjectCode":"CSDT114B"},
+                {"title": "Web Services","subjectCode":"CSDT114C"}
+            ]
+        },
+        {
+            "subjects": [
+                {"title": "Advance Operating System","subjectCode":"CSUT121"},
+                {"title": "Mobile Techonologies","subjectCode":"CSUT122"},
+                {"title": "Software Project Management","subjectCode":"CSUT123"},
+                {"title":  "Human Computer Intraction","subjectCode":"CSDT124B"},
+                {"title":  "Web Services","subjectCode":"CSDT124c"}
+            ]
+        },
+        {
+            "subjects": [
+                {"title":  "Software Architecture & design Patterns","subjectCode":"CSUT231"},
+                {"title":  "Machine Learning","subjectCode":"CSUT232"},
+                {"title":  "Web Frameworks","subjectCode":"CSUT233"},
+                {"title":   "Big Data Analytics","subjectCode":"CSDT234A"},
+                {"title":  "web Analytics","subjectCode":"CSDT234B"}    
+            ]
+        }
+    ]
+
+
+}
+       

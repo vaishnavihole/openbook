@@ -1,0 +1,86 @@
+.header-display-image {
+    max-height: 250px !important;
+    min-height: 300px !important;
+}
+
+p {
+    font-size: 20px;
+}
+
+.main-div {
+    margin-top: 100px;
+}
+
+.lbc1-image {
+    max-height: 160px !important;
+    min-height: 210px !important;
+}
+
+.lbc2-image {
+    max-height: 150px !important;
+    min-height: 200px !important;
+}
+
+.lbc-image {
+    max-height: 130px !important;
+    min-height: 200px !important;
+}
+
+.select-branch {
+    font-size: 18px;
+    padding: 5px;
+    margin: 5px;
+    width: 200px;
+    border: none;
+    border-radius: 5px;
+    background-color: #efad19;
+    box-shadow: 0px 3px 1px -2px rgb(0, 0, 0);
+}
+
+.select-sem {
+    font-size: 18px;
+    padding: 5px;
+    margin: 5px;
+    width: 200px;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    background-color: black;
+    box-shadow: 0px 3px 1px -2px rgb(0, 0, 0);
+}
+
+.logo-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 40px;
+    margin-top: 15px;
+}
+
+.logo-img:hover{
+    box-shadow: 5px 5px 10px 2px gray;
+    transition: 0.5s;
+}
+
+.socialmedia-logo {
+    border-radius: 50px;
+    margin-left: 30px;
+    width: 70px;
+    height: 70px;
+}
+
+.logo-div {
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 5px 5px 10px 2px gray;
+}
+
+.logo-div:hover{
+    box-shadow: 8px 8px 12px 2px gray;
+}
+
+.collage-image{
+    margin-top: 80px;
+}
